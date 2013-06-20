@@ -3,33 +3,37 @@ R package DiscriMiner
 
 This is a very nice package which provides functions for Discriminant Analysis and Classification purposes. Among the covered topics one can find methods for descriptive, geometric, linear, quadratic, PLS, as well as qualitative discriminant analyses.
 
-Requirements and Installation
+Installation
 -----------------------------
-*  DiscriMiner (stable version from CRAN)
+DiscriMiner (stable version from CRAN)
+```
+install.packages("DiscriMiner")
+```
 
-   install.packages("DiscriMiner")
-
-*  DiscriMiner (latest version from github)
-
-   install.packages("devtools") 
-
-   library(devtools)
-   
-   install_github('DiscriMiner',  username='gastonstat')
-
+DiscriMiner (latest version from github)
+```
+install.packages("devtools") 
+library(devtools)
+install_github('DiscriMiner',  username='gastonstat')
+```
 
 Example Usage
 -------------
-    > library(DiscriMiner)
+```
+# load package
+library(DiscriMiner)
 
-    > data(iris)
+# laod dataset
+data(iris)
 
-    > my_model = geoDA(iris[,1:4], iris$Species)
+# apply geometric predictive discriminant analysis
+my_model = geoDA(iris[,1:4], iris$Species)
 
-    > my_model
+# show me the model
+my_model
+```
 
-
-Or check out [www.gastonsanchez.com/discriminer](http://www.gastonsanchez.com/discriminer) for some useful slides.
+More info at [www.gastonsanchez.com/discriminer](http://www.gastonsanchez.com/discriminer)
 
 Links
 -----
@@ -37,6 +41,9 @@ Links
 
 [DiscriMiner slides](http://www.gastonsanchez.com/discriminer)
 
+Acknowledgements
+--------------
+Many thanks to Charles Determan for his contributions to the function `plsDA`
 
 Author Contact
 --------------
