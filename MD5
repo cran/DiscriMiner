@@ -1,4 +1,4 @@
-5502147869965709affe51a725d61e82 *DESCRIPTION
+d9413a47de7e4c41d5b0c4bfe5302e77 *DESCRIPTION
 e3ffca50ce37824eb8dc824e9c593d0a *NAMESPACE
 3dd5f2a17e5921beff963cd19a32bf88 *R/DiscriMiner-package.R
 bf207c0e2523b110f09382fabdf2981d *R/FRatio.R
@@ -26,11 +26,11 @@ a2cf1a389b94808378bcc8e4f068baf7 *R/my_betweenCov.R
 2f8eca9948e1df58ecad5109dfee8435 *R/my_groupMeans.R
 0ad3fa0cc8c26492acf5778eb3d8aa26 *R/my_linDA.R
 570f82a083e2c0672021231c6b829d46 *R/my_mca.R
-22b8a954c5d6889fa586e6c344851ed5 *R/my_plsDA.R
-3d0c0d1d0692f20312d796dcc56301e6 *R/my_plsDA_old.R
+0fdc3152cee410755705db112aa29555 *R/my_plsDA.R
+2cdf6e6eac6d07363506a8cf252e527d *R/my_plsDA_old.R
 d6c834aeff8becfb3038b7d2ca268ef9 *R/my_quaDA.R
 1037fae898a13cc2f5253283a61ff2c4 *R/my_tdc.R
-d1cdaa87518c1d02cd1885e4c819fbf6 *R/my_verify.R
+6ee4fccbeda79044e30eaeaaac86c8d6 *R/my_verify.R
 368394e2c2985419e590c47046530c1e *R/my_withinCov.R
 716ca03194cbce32098f1147c58ec5a4 *R/plot.plsda.R
 e811bcc1ba71154423d959efca309462 *R/plsDA.R
@@ -42,12 +42,11 @@ b643c08e8b76fe6f9d0f20079c7aae15 *R/print.linda.R
 23a8110e42b4539e9333c23e4b634d68 *R/print.plsda.R
 3fabc05f0d1e563d8edd4473c7933470 *R/print.quada.R
 2743aa037338d718595437a6f83fc6e0 *R/print.qualmca.R
-f49a5821dd63b685bf5f9e4d7d37a3eb *R/quaDA.R
+7aa1e4a1afe8c0475255133af473c0b3 *R/quaDA.R
 5ba4e3afacdfcc26d44cd0e47631baad *R/totalCov.R
 d9de76756df8f83ae732b758154470d0 *R/totalSS.R
 13cc6b0bbb6e0f527307e6c154767e7a *R/withinCov.R
 c865c03ba1a8165eb7979e62648b91b9 *R/withinSS.R
-4a2a287002d45026bdb31e7bcce83823 *README.md
 5c22ce5583874f255fcf98d56d9fb81c *data/bordeaux.rda
 11facd372019f172c834b2a443f8f828 *data/infarctus.rda
 96703bfbb9ed15b48ae99ea10d1018c3 *data/insurance.rda
@@ -76,7 +75,7 @@ c2453af1839bd39025c3a0a20c74cd8a *man/linDA.Rd
 ab10b6621982fa6f0dcc761a332cfa35 *man/my_plsDA.Rd
 0482e5cdb1746c24a947ee27a9f30a33 *man/plsDA.Rd
 6d3bd69fdc7c348ea314b1a756c7dcf3 *man/plsDA_old.Rd
-29f436ca260cb94fb600e1c719ff1934 *man/quaDA.Rd
+3b80ef65dc9173ef7b8cc4b93a068011 *man/quaDA.Rd
 bc27de329bc7fd008b41807cac869457 *man/totalCov.Rd
 9fe81fc5a4ae736d0f473a5335e97b9a *man/totalSS.Rd
 5aefa6dea29aca279b7eb6c4440f49e4 *man/withinCov.Rd
