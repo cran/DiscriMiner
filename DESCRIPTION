@@ -1,8 +1,8 @@
 Package: DiscriMiner
 Type: Package
 Title: Tools of the Trade for Discriminant Analysis
-Version: 0.1-27
-Date: 2013-09-25
+Version: 0.1-28
+Date: 2013-10-20
 Authors@R: c(
     person("Gaston", "Sanchez",
     email = "gaston.stat@gmail.com", role = c("aut", "cre")),
@@ -27,10 +27,10 @@ Collate: 'DiscriMiner-package.R' 'FRatio.R' 'betweenCov.R'
         'print.plsda.R' 'print.quada.R' 'print.qualmca.R' 'quaDA.R'
         'totalCov.R' 'totalSS.R' 'withinCov.R' 'withinSS.R'
         'my_plsDA_old.R' 'plsDA_old.R' 'plsDA.R'
-Packaged: 2013-09-25 19:17:24 UTC; Gaston
+Packaged: 2013-10-20 15:05:26 UTC; Gaston
 Author: Gaston Sanchez [aut, cre],
   Charles Determan [ctb]
 Maintainer: Gaston Sanchez <gaston.stat@gmail.com>
 NeedsCompilation: no
 Repository: CRAN
-Date/Publication: 2013-09-25 22:24:11
+Date/Publication: 2013-10-20 17:20:20

@@ -1,4 +1,4 @@
-d9413a47de7e4c41d5b0c4bfe5302e77 *DESCRIPTION
+b328cd3af833eedfcb2385756f7ce1db *DESCRIPTION
 e3ffca50ce37824eb8dc824e9c593d0a *NAMESPACE
 3dd5f2a17e5921beff963cd19a32bf88 *R/DiscriMiner-package.R
 bf207c0e2523b110f09382fabdf2981d *R/FRatio.R
@@ -6,7 +6,7 @@ bf207c0e2523b110f09382fabdf2981d *R/FRatio.R
 ca0ff9c77ce5d43133a8542664727471 *R/betweenSS.R
 d524f651eff9410138d94fc225645670 *R/binarize.R
 ecb50b41676a4e73f6d0b7000a7bf899 *R/classify.R
-a975410e8ad50fcc362fd9ad5e91c6ea *R/corRatio.R
+c9eb881ac427954d4d1d8db5bfc44ae7 *R/corRatio.R
 b0daf90ba5816c84f48e260112e28610 *R/desDA.R
 2740565c419da1f9a2cd88eef56b4731 *R/discPower.R
 94de4a2022d8026b3183839db1d470ea *R/disqual.R
@@ -26,14 +26,14 @@ a2cf1a389b94808378bcc8e4f068baf7 *R/my_betweenCov.R
 2f8eca9948e1df58ecad5109dfee8435 *R/my_groupMeans.R
 0ad3fa0cc8c26492acf5778eb3d8aa26 *R/my_linDA.R
 570f82a083e2c0672021231c6b829d46 *R/my_mca.R
-0fdc3152cee410755705db112aa29555 *R/my_plsDA.R
+950e0d1bdbfa2c98167e0ba1e276e17d *R/my_plsDA.R
 2cdf6e6eac6d07363506a8cf252e527d *R/my_plsDA_old.R
 d6c834aeff8becfb3038b7d2ca268ef9 *R/my_quaDA.R
 1037fae898a13cc2f5253283a61ff2c4 *R/my_tdc.R
 6ee4fccbeda79044e30eaeaaac86c8d6 *R/my_verify.R
 368394e2c2985419e590c47046530c1e *R/my_withinCov.R
 716ca03194cbce32098f1147c58ec5a4 *R/plot.plsda.R
-e811bcc1ba71154423d959efca309462 *R/plsDA.R
+f62d2faa1d7cda1894945bff4bcae56d *R/plsDA.R
 611b680e50a768b73ea5a3261d2fa4b1 *R/plsDA_old.R
 6873e78d0f3333af1dbed6e21fe822b7 *R/print.desda.R
 95fd92cb1943eed757e860c0da501b2e *R/print.disqual.R
@@ -72,8 +72,8 @@ dea21d2afd0f8087af52e9571afa7e05 *man/groupVars.Rd
 458a5bcadb6740b50f8d4ff0ddd4a33b *man/infarctus.Rd
 7c4934b52da56b4529ef7cd1b7f733b8 *man/insurance.Rd
 c2453af1839bd39025c3a0a20c74cd8a *man/linDA.Rd
-ab10b6621982fa6f0dcc761a332cfa35 *man/my_plsDA.Rd
-0482e5cdb1746c24a947ee27a9f30a33 *man/plsDA.Rd
+be29b251e53a40258565c7ea9bd535c7 *man/my_plsDA.Rd
+673cc2469d8e8a464c4a668b265d45a2 *man/plsDA.Rd
 6d3bd69fdc7c348ea314b1a756c7dcf3 *man/plsDA_old.Rd
 3b80ef65dc9173ef7b8cc4b93a068011 *man/quaDA.Rd
 bc27de329bc7fd008b41807cac869457 *man/totalCov.Rd
