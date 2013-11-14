@@ -1,4 +1,4 @@
-b328cd3af833eedfcb2385756f7ce1db *DESCRIPTION
+a2ac1d3be525155029797ab8d65c030d *DESCRIPTION
 e3ffca50ce37824eb8dc824e9c593d0a *NAMESPACE
 3dd5f2a17e5921beff963cd19a32bf88 *R/DiscriMiner-package.R
 bf207c0e2523b110f09382fabdf2981d *R/FRatio.R
@@ -33,7 +33,7 @@ d6c834aeff8becfb3038b7d2ca268ef9 *R/my_quaDA.R
 6ee4fccbeda79044e30eaeaaac86c8d6 *R/my_verify.R
 368394e2c2985419e590c47046530c1e *R/my_withinCov.R
 716ca03194cbce32098f1147c58ec5a4 *R/plot.plsda.R
-f62d2faa1d7cda1894945bff4bcae56d *R/plsDA.R
+8977e919322113b6306cad8ce26e099c *R/plsDA.R
 611b680e50a768b73ea5a3261d2fa4b1 *R/plsDA_old.R
 6873e78d0f3333af1dbed6e21fe822b7 *R/print.desda.R
 95fd92cb1943eed757e860c0da501b2e *R/print.disqual.R
